@@ -8,10 +8,6 @@
 *MENTOR* :- NEELA SANTHOSH KUMAR
 
 
-Here's a clear summary of the **objectives, key points, and activities** for **Internship Task - 4: Generative Text Model** (as shown in your image from CODTECH):
-
----
-
 ## 🎯 **Objective:**
 
 To design and implement a **text generation model** capable of producing **coherent, meaningful paragraphs** based on user-provided prompts, using either **GPT** (Generative Pre-trained Transformer) or **LSTM** (Long Short-Term Memory) architectures.
